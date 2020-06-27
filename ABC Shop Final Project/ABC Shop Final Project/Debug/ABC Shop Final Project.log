@@ -1,0 +1,21 @@
+﻿  Functions.cpp
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Functions.cpp(21,11): warning C4102: 'attendence': unreferenced label
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Functions.cpp(28,19): warning C4101: 'gAB': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Functions.cpp(19,7): warning C4101: 'attendence': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Functions.cpp(34,8): warning C4101: 'gA': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Functions.cpp(209,7): warning C4101: 'token': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Functions.cpp(415,8): warning C4101: 'gStkNo': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Functions.cpp(587,9): warning C4102: 'expenses': unreferenced label
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Functions.cpp(594,6): warning C4101: 'm': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Functions.cpp(586,7): warning C4101: 'expenses': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Functions.cpp(605,8): warning C4101: 'goup': unreferenced local variable
+  Main.cpp
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Main.cpp(14,10): warning C4101: 'back': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Main.cpp(33,7): warning C4101: 'up': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Main.cpp(32,8): warning C4101: 'menu': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Main.cpp(51,8): warning C4101: 'Attand': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Main.cpp(129,8): warning C4101: 'expenses': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Main.cpp(205,8): warning C4101: 'Token': unreferenced local variable
+C:\Users\Azeem\source\repos\ABC Shop Final Project\ABC Shop Final Project\Main.cpp(282,8): warning C4101: 'stock': unreferenced local variable
+  Generating Code...
+  ABC Shop Final Project.vcxproj -> C:\Users\Azeem\source\repos\ABC Shop Final Project\Debug\ABC Shop Final Project.exe

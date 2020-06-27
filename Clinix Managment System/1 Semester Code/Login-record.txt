@@ -1,0 +1,987 @@
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 3
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 3
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 4
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 2
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 3
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 4
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 1
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 3
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 4
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 1
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 2
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 4
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 1
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 1
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 6
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 1
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 0
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 4
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 1
+ _____________________________________ 
+| Press 1        For Customer         | 
+| Press 2        For Employee         | 
+| Press 3        For Manager          | 
+| Press 4        For Exit             | 
+|_____________________________________| 
+User Enter 1

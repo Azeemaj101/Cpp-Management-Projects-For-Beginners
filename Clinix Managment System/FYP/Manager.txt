@@ -1,0 +1,181 @@
+Welcome Manager 
+          Please Enter your Email-ID or Password 
+Enter The Emails 
+User Enter AzeemEnter The Password 
+User Enter 1234Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter1
+Welcome Manager 
+          Please Enter your Email-ID or Password 
+Enter The Emails 
+User Enter AzeemEnter The Password 
+User Enter 1234Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter1
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter2
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter3
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter4
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter5
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter6
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter5
+Welcome Manager 
+          Please Enter your Email-ID or Password 
+Enter The Emails 
+User Enter AzeemEnter The Password 
+User Enter 1234Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter1
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter2
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter3
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter4
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter5
+Welcome Manager 
+          Please Enter your Email-ID or Password 
+Enter The Emails 
+User Enter azeemEnter The Password 
+User Enter 1234Welcome azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter2
+Welcome azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter1
+Welcome azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter3
+Welcome azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter3
+Welcome Manager 
+          Please Enter your Email-ID or Password 
+Enter The Emails 
+User Enter AzeemEnter The Password 
+User Enter 1234Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter1
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter2
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter3
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter4
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter5
+Welcome Azeem How can I help you 
+Press 1 for Employee Information 
+Press 2 for Stock Record 
+Press 3 for Stock 
+Press 4 for Show Stock Record 
+Press 5 for Admin Record
+Manager Enter5

@@ -1,0 +1,73 @@
+                                         Welcome to clinix 
+                    Dear Please Enter your Clinix E-mail or Password 
+E-Mail ID =User Enter moazamazeem.gmail.comPassword =User Enterbalatkari123                                         Welcome to clinix 
+                    Dear Please Enter your Clinix E-mail or Password 
+E-Mail ID =User Enter azeemPassword =User EnterazeemWelcome Muhammad Azeem 
+Your Today counter Number is 1 
+______________NEXT______________________
+                                         Welcome to clinix 
+                    Dear Please Enter your Clinix E-mail or Password 
+E-Mail ID = 
+User Enter azeemPassword =
+User Enter1234                                         Welcome to clinix 
+                    Dear Please Enter your Clinix E-mail or Password 
+E-Mail ID = 
+User Enter tahaPassword =
+User Enter1234Press 1 for Stock 
+press 2 for My Information 
+Welcome Muhammad Taha 
+User Enter 2
+Your Today counter Number is 2 
+Press 1 For ID Menu 
+Press 2 For Main Menu 
+User Enter1
+Press 1 for Stock 
+press 2 for My Information 
+Welcome Muhammad Taha 
+User Enter 1
+Press 1 For ID Menu 
+Press 2 For Main Menu 
+User Enter2
+                                         Welcome to clinix 
+                    Dear Please Enter your Clinix E-mail or Password 
+E-Mail ID = 
+User Enter tahaPassword =
+User Enter1234Press 1 for Stock 
+press 2 for My Information 
+Welcome Muhammad Taha 
+User Enter 3
+Press 1 for Stock 
+press 2 for My Information 
+Welcome Muhammad Taha 
+User Enter 1
+Press 1 For ID Menu 
+Press 2 For Main Menu 
+User Enter3
+Press 1 For ID Menu 
+Press 2 For Main Menu 
+User Enter1
+Press 1 for Stock 
+press 2 for My Information 
+Welcome Muhammad Taha 
+User Enter 2
+                                         Welcome to clinix 
+                    Dear Please Enter your Clinix E-mail or Password 
+E-Mail ID = 
+User Enter AZEEMPassword =
+User Enter1234Welcome Muhammad Azeem 
+Press 1 For See Stock 
+Press 2 For Employee Info
+Stock Show to Employee (Azeem)
+Press 1 For ID Menu 
+Press 2 For Main Menu 
+User Enter 1
+Welcome Muhammad Azeem 
+Press 1 For See Stock 
+Press 2 For Employee Info
+Your Today counter Number is 1 
+User Enter 1
+Welcome Muhammad Azeem 
+Press 1 For See Stock 
+Press 2 For Employee Info
+Your Today counter Number is 1 
+User Enter 2

@@ -1,0 +1,96 @@
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =950
+              ......               
+1 Medicine Pack=300 
+User Enter =100Stock : Your Remaining Calcium Carbonate =900
+              ......               
+User Enter =50Stock : Your Remaining Celine Water =950
+              ......               
+|******************************|
+|     Your total item is =3|
+|                              |
+|your    bill    is =37500|
+|******************************|
+...............Payment................ 
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =950
+              ......               
+1 Medicine=10 
+User Enter =90Stock : Your Remaining Sambucol Cold =910
+              ......               
+|******************************|
+|     Your total item is =2|
+|                              |
+|your    bill    is =2400|
+|******************************|
+...............Payment................ 
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =995
+              ......               
+1 Medicine=20 
+User Enter =6Stock : Your Remaining Amlodipine =994
+              ......               
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =995
+              ......               
+|******************************|
+|     Your total item is =3|
+|                              |
+|your    bill    is =420|
+|******************************|
+...............Payment................ 
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =500
+              ......               
+|******************************|
+|     Your total item is =1|
+|                              |
+|your    bill    is =15000|
+|******************************|
+...............Payment................ 
+|******************************|
+|     Your total item is =0|
+|                              |
+|your    bill    is =0|
+|******************************|
+...............Payment................ 
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =998
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =1494
+              ......               
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =944
+|******************************|
+|     Your total item is =0|
+|                              |
+|your    bill    is =0|
+|******************************|
+...............Payment................ 
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =994
+              ......               
+|******************************|
+|     Your total item is =1|
+|                              |
+|your    bill    is =180|
+|******************************|
+...............Payment................ 
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =994
+              ......               
+|******************************|
+|     Your total item is =1|
+|                              |
+|your    bill    is =180|
+|******************************|
+...............Payment................ 
+1 Medicine=30 
+User Enter =1000Stock : Your Remaining Lisinopril =994
+              ......               
+|******************************|
+|     Your total item is =1|
+|                              |
+|your    bill    is =180|
+|******************************|
+...............Payment................ 
